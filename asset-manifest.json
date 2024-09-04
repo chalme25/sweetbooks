@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sweetbooks/static/css/main.edfb4c59.css",
+    "main.js": "/sweetbooks/static/js/main.c3f17fca.js",
+    "index.html": "/sweetbooks/index.html",
+    "main.edfb4c59.css.map": "/sweetbooks/static/css/main.edfb4c59.css.map",
+    "main.c3f17fca.js.map": "/sweetbooks/static/js/main.c3f17fca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edfb4c59.css",
+    "static/js/main.c3f17fca.js"
+  ]
+}
